@@ -1,0 +1,1 @@
+# _PYQT5_PYOPENGL
